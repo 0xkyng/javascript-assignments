@@ -3,32 +3,32 @@ let teamCiromaScore = (88 + 91 + 110) / 3;
 
 console.log(teamDumebiScore, teamCiromaScore);
 
-if (teamDumebiScore > teamCiromaScore && teamDumebiScore){
-    console.log ("Team Dumebi won")
-}
-else if (teamCiromaScore > teamDumebiScore && teamCiromaScore ){
-    console.log ("Team Ciroma won")
-}
-else if (teamDumebiScore === teamCiromaScore && teamDumebiScore  && teamCiromaScore ){
-    console.log ("Both teams won")
-} 
+// if (teamDumebiScore > teamCiromaScore && teamDumebiScore){
+//     console.log ("Team Dumebi won")
+// }
+// else if (teamCiromaScore > teamDumebiScore && teamCiromaScore ){
+//     console.log ("Team Ciroma won")
+// }
+// else if (teamDumebiScore === teamCiromaScore && teamDumebiScore  && teamCiromaScore ){
+//     console.log ("Both teams won")
+// } 
 
 // BONUS 1
 
-let teamDumebiBonus1 = (97 + 112 + 101) / 3;
-let teamCiromaBonus1 = (109 + 95 + 110) / 3;
+// let teamDumebiBonus1 = (97 + 112 + 101) / 3;
+// let teamCiromaBonus1 = (109 + 95 + 110) / 3;
 
-console.log(teamDumebiBonus1, teamCiromaBonus1);
+// console.log(teamDumebiBonus1, teamCiromaBonus1);
 
-if (teamDumebiBonus1 > teamCiromaBonus1 && teamDumebiBonus1 >= 100){
-    console.log ("Team Dumebi won")
-}
-else if (teamCiromaBonus1 > teamDumebiBonus1 && teamCiromaBonus1 >=100){
-    console.log ("Team Ciroma won")
-}
-else if (teamDumebiBonus1 === teamCiromaBonus1 && teamDumebiBonus1 >= 100 && teamCiromaBonus1 >= 100){
-    console.log ("It was a draw")
-} 
+// if (teamDumebiBonus1 > teamCiromaBonus1 && teamDumebiBonus1 >= 100){
+//     console.log ("Team Dumebi won")
+// }
+// else if (teamCiromaBonus1 > teamDumebiBonus1 && teamCiromaBonus1 >=100){
+//     console.log ("Team Ciroma won")
+// }
+// else if (teamDumebiBonus1 === teamCiromaBonus1 && teamDumebiBonus1 >= 100 && teamCiromaBonus1 >= 100){
+//     console.log ("It was a draw")
+// } 
 
 
 // BONUS 2
